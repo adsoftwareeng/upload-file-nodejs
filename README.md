@@ -28,7 +28,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/adsoftwareeng/upload-file-nodejs.git
 cd upload-file-nodejs
+npm install
+npm start
 ```
+
+## Endpoints:
+
+POST /upload → Single or Multiple files (field name: file)
 
 ## License
 
